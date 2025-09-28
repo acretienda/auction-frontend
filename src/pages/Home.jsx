@@ -1,5 +1,5 @@
 import React from 'react'
 
 export default function Home() {
-  return <h1>Welcome to Auction App</h1>
+  return <h2>Bienvenido a la plataforma de subastas</h2>
 }
